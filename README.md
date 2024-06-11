@@ -79,8 +79,8 @@ print(f'Accuracy: {accuracy_score(y_test, predictions)}')
 For any questions, feel free to reach out:
 
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ghulam-mujtaba-adil-ab9220169/))
+- **PowerBi:** [@yourusername]([https://twitter.com/yourusername](https://app.powerbi.com/groups/me/list?experience=power-bi))
 
 ## 🌟 Contributing
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. You can:
